@@ -1,0 +1,22 @@
+{
+  "name": "sync-utils",
+  "version": "1.0.0",
+  "description": "Collection of synchronization classes and functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amirhousseini/sync-utils.git"
+  },
+  "keywords": [
+    "sync"
+  ],
+  "author": "Amir Housseini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amirhousseini/sync-utils/issues"
+  },
+  "homepage": "https://github.com/amirhousseini/sync-utils#readme"
+}
