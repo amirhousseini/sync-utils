@@ -1,5 +1,5 @@
 {
-  "name": "@ah-sync-utils",
+  "name": "ah-sync-utils",
   "version": "1.0.0",
   "description": "Collection of synchronization classes and functions",
   "main": "index.js",
